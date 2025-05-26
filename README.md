@@ -1,4 +1,4 @@
 # Band-Name-Generator
-Siddhesh Kurade
+Siddhesh Narayan Kurade
 <br>
 Software Engineer
